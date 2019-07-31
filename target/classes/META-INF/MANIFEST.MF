@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: api-builder
+Implementation-Version: 0.1.0
+Built-By: aravutla
+Implementation-Vendor-Id: com.cg.osce
+Build-Jdk: 1.8.0_191
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/api-builder
+Created-By: Maven Integration for Eclipse
+
